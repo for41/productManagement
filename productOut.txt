@@ -1,0 +1,3 @@
+Product_ID : c213100
+Product_Category : chair_table
+Product_Name : otoboi_table

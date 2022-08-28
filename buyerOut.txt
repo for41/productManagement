@@ -1,0 +1,3 @@
+buyerID : c213101
+buyerName : takib
+price : 950
